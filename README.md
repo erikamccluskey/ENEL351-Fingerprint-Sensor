@@ -1,7 +1,7 @@
 # Fingerprint security system
 
 ## Project Summary
-Our system models a fingerprint security system and is programmed in C operating an LCD display, a USART fingerprint sensor, a buzzer, LEDs, and buttons. 
+Our system models a fingerprint security system and is programmed in C operating a LCD display, a USART fingerprint sensor, a buzzer, LEDs, and buttons. 
 
 ## System Functionalities 
 - Has a sound sensor to sense sound when scanning the fingerprint
